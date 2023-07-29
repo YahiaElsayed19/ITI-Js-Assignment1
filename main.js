@@ -284,7 +284,6 @@
 //         break;
 
 //     case 1:
-//     case -1:
 //         numberType = "Odd";
 //         break;
 
