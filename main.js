@@ -226,7 +226,7 @@
 // }
 
 // console.log(`Number of days in month ${enteredMonth}: ${daysInMonth}`);
-// document.getElementById("power-result").innerHTML = `Number of days in month ${enteredMonth} is ${daysInMonth}`
+// document.getElementById("number-of-days").innerHTML = `Number of days in month ${enteredMonth} is ${daysInMonth}`
 
 //---------------------------------------------------------------------
 
