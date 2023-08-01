@@ -55,7 +55,7 @@
 // var numbersArray = [firstNumber, secondNumber, thirdNumber]
 // var sortednumbersArray = numbersArray.sort((a, b) => a - b);
 
-// console.log(`Max number: ${sortednumbersArray[0]}`, `Min number: ${sortednumbersArray[2]}`);
+// console.log(`Max number: ${sortednumbersArray[2]}`, `Min number: ${sortednumbersArray[0]}`);
 // document.getElementById("max-number").innerHTML = `Max Number = ${sortednumbersArray[2]}`
 // document.getElementById("min-number").innerHTML = `min Number = ${sortednumbersArray[0]}`
 
